@@ -10,4 +10,5 @@ else{
 ?>
 <ul>
     <li><a href="setlocale.php">setlocale</a>
+    <li><a href="putenv.php">putenv</a>
 </ul>
